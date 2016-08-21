@@ -4,7 +4,7 @@
 
 
 # About This Bot
-A *Multi Purpose Bot* , Written With [PyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) By [Ali](telegram.me/Pokr_Face)
+A *Multi Purpose Bot* , Written With [PyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) By [Ali](https://telegram.me/Pokr_Face)
 _LICENSE under MIT LICENSE_ [Read License Here](https://github.com/telemanagerplus/python-api/blob/master/LICENSE)
 
 *You Can Use this bot , to Start working With PyTelegramBotAPI*
@@ -142,16 +142,16 @@ chmod 777 install.sh
 ```
 ----------
 #About
-*You can Contact me With* [telegram](telegram.me/Pokr_Face)
-[Our Channel In Telegram](telegram.me/Telemanager_Ch)
+*You can Contact me With* [telegram](https://telegram.me/Pokr_Face)
+[Our Channel In Telegram](https://telegram.me/Telemanager_Ch)
 
 *Speacial Tnx To :*
 
-*  [Amir](telegram.me/Negative)
+*  [Amir](https://telegram.me/Negative)
  
-*  [ImanDaneshi](telegram.me/ImanDaneshi)
+*  [ImanDaneshi](https://telegram.me/ImanDaneshi)
  
-*  [AmirSbss](telegram.me/Amir_h)
+*  [AmirSbss](https://telegram.me/Amir_h)
   
 *  [AmirHossein](telegram.me/sudo1)
 
