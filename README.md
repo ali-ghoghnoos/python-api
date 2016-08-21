@@ -153,7 +153,7 @@ chmod 777 install.sh
  
 *  [AmirSbss](https://telegram.me/Amir_h)
   
-*  [AmirHossein](telegram.me/sudo1)
+*  [AmirHossein](https://telegram.me/sudo1)
 
   _And Other Guys that help me for this Project ;)_
 ----------
