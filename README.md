@@ -5,12 +5,11 @@
 [![Contact button](telegram.me/Pokr_Face)](telegram.me/pokr_face "Contact To Creator")
 
 # About This Bot
-----------
 A *Multi Purpose Bot* , Written With [PyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) By [Ali](telegram.me/Pokr_Face)
-
+_LICENSE under MIT LICENSE_ [Read License Here](https://github.com/telemanagerplus/python-api/blob/master/LICENSE)
 
 *You Can Use this bot , to Start working With PyTelegramBotAPI*
-_LICENSE under MIT LICENSE_ [Read License Here](https://github.com/telemanagerplus/python-api/blob/master/LICENSE)
+<p align="center">_LICENSE under MIT LICENSE_ [Read License Here](https://github.com/telemanagerplus/python-api/blob/master/LICENSE)
 ----------
 #Bot Commands
 <table>
@@ -126,7 +125,7 @@ _LICENSE under MIT LICENSE_ [Read License Here](https://github.com/telemanagerpl
       <td>This is an Example For normal keyboards</td>
     </tr>
     <tr>
-      <td>/Inline</td>
+      <td>Inline</td>
       <td>Type Your Bot Id and Then Wait For InlineQuery Keyboards</td>
     </tr>
   </tbody>
@@ -139,20 +138,24 @@ git clone https://github.com/telemanagerplus/python-api
 cd python-api
 chmod 777 install.sh
 ./install.sh
+# After this Step,You Should Open Config File, And Edit it!*_I Tell how to Edit it, With Hashtags
 ./run.sh
 ```
-*After this Step,You Should Open Config File, And Edit it!*_I Tell how to Edit it, With Hashtags_
 ----------
 #About
 *You can Contact me With* [telegram](telegram.me/Pokr_Face)
 [Our Channel In Telegram](telegram.me/Telemanager_Ch)
 
 ***Speacial Tnx To :***
-  [Amir](telegram.me/Negative)
-  [ImanDaneshi](telegram.me/ImanDaneshi)
-  [AmirSbss](telegram.me/Amir_h)
-  [AmirHossein](telegram.me/sudo1)
-  *And Other Guys that help me for this Project ;)*
+-  [Amir](telegram.me/Negative)
+-  
+-  [ImanDaneshi](telegram.me/ImanDaneshi)
+-  
+-  [AmirSbss](telegram.me/Amir_h)
+-  
+-  [AmirHossein](telegram.me/sudo1)
+-  
+  _And Other Guys that help me for this Project ;)_
 ----------
 ***Dont Forget To Star This Project :)***
 ----------
