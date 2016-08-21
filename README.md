@@ -135,10 +135,16 @@ _LICENSE under MIT LICENSE_ [Read License Here](https://github.com/telemanagerpl
 ```bash
 git clone https://github.com/telemanagerplus/python-api
 cd python-api
-chmod 777 install.sh
-./install.sh
+chmod 777 launch.sh
+./launch.sh install
 # After this Step,You Should Open Config File, And Edit it!I Tell how to Edit it, With Hashtags
-./run.sh
+./launch.sh # will launch bot with :  screen -S telemanagerplus python2.7 bot.py 
+# For reattach to your bot screen, Run below command :
+./launch reattach
+#If You get any error, Use below code :
+./launch fix
+# For Upgrade Your Bot to lastest Version of our Github, Run this code :
+./launch update
 ```
 ----------
 #About
