@@ -2,7 +2,6 @@
 
 <p align="center">A MultiPurpose Robot Written With [PyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) With [Telegram Bot API Methods](https://core.telegram.org/bots/api)
 
-[![Contact button](telegram.me/Pokr_Face)](telegram.me/pokr_face "Contact To Creator")
 
 # About This Bot
 A *Multi Purpose Bot* , Written With [PyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) By [Ali](telegram.me/Pokr_Face)
