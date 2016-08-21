@@ -138,12 +138,31 @@ cd python-api
 chmod 777 launch.sh
 ./launch.sh install
 # After this Step,You Should Open Config File, And Edit it!I Tell how to Edit it, With Hashtags
-./launch.sh # will launch bot with :  screen -S telemanagerplus python2.7 bot.py 
-# For reattach to your bot screen, Run below command :
+./launch.sh # will launch bot
+```
+----------
+#Launch Options
+For launch Bot ,Use:
+
+```
+./launch.sh
+```
+
+For reattach to your bot screen, Run below command :
+
+```
 ./launch reattach
-#If You get any error, Use below code :
+```
+
+If You get any error in installing, Use below code :
+
+```
 ./launch fix
-# For Upgrade Your Bot to lastest Version of our Github, Run this code :
+```
+
+For Upgrade Your Bot to lastest Version of our Github, Run this code :
+
+```
 ./launch update
 ```
 ----------
