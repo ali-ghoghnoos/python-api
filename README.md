@@ -138,7 +138,7 @@ git clone https://github.com/telemanagerplus/python-api
 cd python-api
 chmod 777 install.sh
 ./install.sh
-# After this Step,You Should Open Config File, And Edit it!*_I Tell how to Edit it, With Hashtags
+# After this Step,You Should Open Config File, And Edit it!I Tell how to Edit it, With Hashtags
 ./run.sh
 ```
 ----------
@@ -146,15 +146,16 @@ chmod 777 install.sh
 *You can Contact me With* [telegram](telegram.me/Pokr_Face)
 [Our Channel In Telegram](telegram.me/Telemanager_Ch)
 
-***Speacial Tnx To :***
--  [Amir](telegram.me/Negative)
--  
--  [ImanDaneshi](telegram.me/ImanDaneshi)
--  
--  [AmirSbss](telegram.me/Amir_h)
--  
--  [AmirHossein](telegram.me/sudo1)
--  
+*Speacial Tnx To :*
+
+*  [Amir](telegram.me/Negative)
+ 
+*  [ImanDaneshi](telegram.me/ImanDaneshi)
+ 
+*  [AmirSbss](telegram.me/Amir_h)
+  
+*  [AmirHossein](telegram.me/sudo1)
+
   _And Other Guys that help me for this Project ;)_
 ----------
 ***Dont Forget To Star This Project :)***
